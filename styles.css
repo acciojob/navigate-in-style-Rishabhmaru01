@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+        .navbar {
+            background-color: #D3D3D3;
+            padding: 10px;
+        }
+
+        .navbar ul {
+            list-style: none;   /* No bullets */
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar li {
+            display: inline;    /* Horizontal list items */
+            margin-right: 1rem;
+        }
